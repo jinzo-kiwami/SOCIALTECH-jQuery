@@ -741,6 +741,8 @@ p {
     /* ナビゲーションメニュー用ロゴ */
     #logo-sp {
         margin: 80px 0 30px 20px;
+        background-image: url(“https://github.com/jinzo-kiwami/SOCIALTECH-jQuery/blob/main/images/Logo.png?raw=true“);
+
     }
 
     /* ナビゲーションのリンクの装飾設定 */
